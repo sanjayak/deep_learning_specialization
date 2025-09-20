@@ -1,1 +1,1 @@
-All the assignments done in https://www.coursera.org/specializations/deep-learning
+All the assignments which was done part of https://www.coursera.org/specializations/deep-learning
